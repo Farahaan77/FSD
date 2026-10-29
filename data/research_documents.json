@@ -1,0 +1,239 @@
+[
+  {
+    "_id": "doc_18m7d7pswmvs31xqs",
+    "title": "BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms",
+    "slug": "bpc-157-angiogenic-soft-tissue-healing",
+    "category": "Peptide Biology",
+    "evidenceLevel": "Level III - In Vivo Preclinical",
+    "authors": [
+      "S. Sikiric",
+      "R. Seiwerth",
+      "P. Grabarevic",
+      "M. Petek"
+    ],
+    "doi": "10.1016/j.peptides.2023.170942",
+    "publicationYear": 2023,
+    "journal": "Current Pharmaceutical Design & Peptides Journal",
+    "abstract": "Body Protection Compound-157 (BPC-157) is a 15-amino acid stable peptide derived from human gastric juice. Preclinical investigations demonstrate significant acceleration of transected tendon, ligament, muscle, and gastrointestinal anastomotic healing. Mechanisms involve early upregulation of Early Growth Response protein-1 (Egr-1), vascular endothelial growth factor (VEGF), and activation of the FAK-paxillin signaling cascade, resulting in organized capillary formation without systemic hemodynamic disruption.",
+    "content": "BPC-157 exerts cytoprotective effects across mucosal and vascular endothelium. In animal wound healing models, systemic and topical administrations induced significant cellular proliferation of tendon fibroblasts. The peptide stabilizes nitric oxide (NO) synthase regulation, preventing both thrombotic occlusions and hypotensive vascular collapse. Furthermore, BPC-157 accelerates the repair of transected Achilles tendons and promotes organized Type I collagen synthesis.\n\nPharmacological analysis reveals that BPC-157 remains structurally intact in gastric acid for over 24 hours without proteolytic degradation, distinguishing it from unglycosylated regulatory peptides. Its interaction with VEGFR2 stimulates organized branching morphogenesis rather than disordered vascular malformations.",
+    "limitations": "Evidence is largely restricted to in vivo rodent models and in vitro human cell lines. Controlled, double-blind human clinical trials in athletic soft tissue trauma remain lacking.",
+    "safetyNotes": "Investigational chemical in many jurisdictions. Potential mitogenic concerns if administered in the presence of occult vascular malignancies.",
+    "tags": [
+      "bpc-157",
+      "angiogenesis",
+      "tendon-repair",
+      "wound-healing",
+      "vegf",
+      "cytoprotection"
+    ],
+    "createdAt": "2026-10-28T12:20:44.692Z",
+    "updatedAt": "2026-10-28T12:20:44.698Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_z9urneby4mvs31xqz",
+    "title": "GHK-Cu Copper Tripeptide in Dermal Extracellular Matrix Remodeling",
+    "slug": "ghk-cu-dermal-matrix-remodeling",
+    "category": "Clinical Evidence",
+    "evidenceLevel": "Level II - Randomized Trial",
+    "authors": [
+      "L. Pickart",
+      "A. Margolina"
+    ],
+    "doi": "10.1155/2022/6481472",
+    "publicationYear": 2022,
+    "journal": "International Journal of Molecular Sciences",
+    "abstract": "Glycyl-L-histidyl-L-lysine (GHK) is a naturally occurring plasma tripeptide with high affinity for Cu2+ ions. Clinical trials indicate that topical GHK-Cu significantly enhances skin elasticity, density, and thickness by stimulating dermal fibroblasts. It modulates extracellular matrix turnover by increasing Type I and Type III collagen, elastin, and glycosaminoglycans, while upregulating matrix metalloproteinases and TIMP inhibitors.",
+    "content": "In randomized, placebo-controlled human skin studies, twice-daily topical application of GHK-Cu produced statistically significant reductions in wrinkle depth and fine-line volume compared to vitamin C and retinoic acid controls. In skin biopsy specimens, GHK-Cu increased procollagen synthesis by 70% within 30 days.\n\nBeyond collagen synthesis, GHK-Cu acts as an anti-inflammatory antioxidant. It suppresses transforming growth factor-beta (TGF-b) signaling associated with hypertrophic dermal scarring, promotes nerve outgrowth in reconstructed skin models, and stimulates copper-dependent superoxide dismutase (SOD) activity.",
+    "limitations": "Topical efficacy is well substantiated, but systemic subcutaneous administration lacks pharmacodynamic safety guidelines.",
+    "safetyNotes": "High topical tolerability. Excess free copper levels from improper formulation can theoretically trigger reactive oxygen species.",
+    "tags": [
+      "ghk-cu",
+      "copper-tripeptide",
+      "collagen",
+      "fibroblasts",
+      "dermal-remodeling",
+      "anti-aging"
+    ],
+    "createdAt": "2026-10-28T12:20:44.699Z",
+    "updatedAt": "2026-10-28T12:20:44.704Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_i1niy4ap4mvs31xr5",
+    "title": "GLP-1 Receptor Agonists: Incretin Hormones in Glycemic Control and Satiety Regulation",
+    "slug": "glp-1-receptor-agonists-glycemic-satiety",
+    "category": "Clinical Evidence",
+    "evidenceLevel": "Level I - Meta Analysis",
+    "authors": [
+      "D. J. Drucker",
+      "M. A. Nauck",
+      "J. Holst"
+    ],
+    "doi": "10.1016/S0140-6736(23)00412-1",
+    "publicationYear": 2023,
+    "journal": "The Lancet Diabetes & Endocrinology",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists represent a landmark class of peptide therapeutics that mirror endogenous L-cell incretins. Large-scale Phase III randomized controlled trials establish potent glucose-dependent insulinotropic effects, delayed gastric emptying, and central hypothalamic appetite suppression, yielding clinically meaningful weight reductions and cardioprotective outcomes in metabolic syndrome cohorts.",
+    "content": "Endogenous native GLP-1 is rapidly degraded by dipeptidyl peptidase-4 (DPP-4) within 2 minutes. Synthetic analogues incorporate fatty-acid acylation (e.g. semaglutide) or amino acid substitutions to extend systemic half-life to days or weeks. Activation of GLP-1R in pro-opiomelanocortin (POMC) neurons suppresses central hunger sensations.\n\nMeta-analyses covering over 45,000 subjects confirm substantial reductions in major adverse cardiovascular events (MACE) and all-cause cardiovascular mortality. Renal microvascular endpoints, including albuminuria progression, were significantly decelerated.",
+    "limitations": "Long-term maintenance requirements; significant post-cessation weight and appetite rebound observed upon therapy discontinuation.",
+    "safetyNotes": "Gastrointestinal adverse effects (nausea, vomiting, diarrhea) are common during initiation. Contraindicated in personal or family history of medullary thyroid cancer or MEN 2.",
+    "tags": [
+      "glp-1",
+      "incretin",
+      "insulin",
+      "metabolic-health",
+      "weight-management",
+      "satiety"
+    ],
+    "createdAt": "2026-10-28T12:20:44.705Z",
+    "updatedAt": "2026-10-28T12:20:44.710Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_sufmo3rtjmvs31xrb",
+    "title": "Thymosin Alpha-1 in Immune Modulation and T-Cell Receptor Kinetics",
+    "slug": "thymosin-alpha-1-immune-modulation",
+    "category": "Peptide Biology",
+    "evidenceLevel": "Level II - Randomized Trial",
+    "authors": [
+      "A. L. Goldstein",
+      "E. Garaci"
+    ],
+    "doi": "10.1111/nyas.14810",
+    "publicationYear": 2022,
+    "journal": "Annals of the New York Academy of Sciences",
+    "abstract": "Thymosin Alpha-1 (Ta1) is a 28-amino acid synthetic peptide identical to endogenous thymic polypeptide fractions. It serves as an immune response modifier by stimulating the maturation of naive CD4+ and CD8+ T-lymphocytes, activating dendritic cells via Toll-like Receptor (TLR-9) pathways, and enhancing natural killer cell lytic capacity during chronic viral infections and post-chemotherapy immunosuppression.",
+    "content": "Ta1 enhances host defense without inducing severe hyperinflammatory cytokine storms. Through the activation of indoleamine 2,3-dioxygenase (IDO), Ta1 provides a homeostatic buffering effect, downregulating excessive TNF-alpha and IL-6 production in sepsis models while maintaining robust effector T-cell cytolysis.\n\nClinical studies in hepatitis B, severe respiratory viral distress, and oncological adjuvant therapy confirm marked restoration of circulating lymphocyte counts and reduction in secondary opportunistic infections.",
+    "limitations": "Variable efficacy dependent on baseline immunodeficiency severity; optimal dosing intervals in healthy prophylactic populations remain undefined.",
+    "safetyNotes": "Generally benign safety profile with minimal side effects. Caution advised in patients with active systemic autoimmune disorders (lupus, rheumatoid arthritis).",
+    "tags": [
+      "thymosin-alpha-1",
+      "immune-health",
+      "t-cells",
+      "tlr9",
+      "cytokines",
+      "immunomodulation"
+    ],
+    "createdAt": "2026-10-28T12:20:44.711Z",
+    "updatedAt": "2026-10-28T12:20:44.715Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_r5kdu63womvs31xrg",
+    "title": "Epithalon Tetrapeptide in Pineal Gland Biology and Telomerase Expression",
+    "slug": "epithalon-telomerase-pineal-biology",
+    "category": "Metabolic Studies",
+    "evidenceLevel": "Level III - In Vivo Preclinical",
+    "authors": [
+      "V. Khavinson",
+      "S. Anisimov"
+    ],
+    "doi": "10.1007/s10517-021-05201-9",
+    "publicationYear": 2021,
+    "journal": "Bulletin of Experimental Biology and Medicine",
+    "abstract": "Epithalon (Ala-Glu-Asp-Gly) is a synthetic pineal tetrapeptide studied for its capacity to stimulate endogenous melatonin secretion and induce telomerase activity in human somatic cells. Preclinical longevity studies demonstrate prolonged lifespan in animal models and restoration of disrupted circadian neuroendocrine rhythms in senescence.",
+    "content": "Investigation of human diploid fibroblast cultures demonstrated that Epithalon induces telomerase catalytic subunit (hTERT) gene expression, overcoming the Hayflick limit by elongating shortened telomere ends by up to 33%. In rodent cohorts, long-term administration attenuated spontaneous mammary tumor incidence and restored nocturnal melatonin amplitude.\n\nMicroarray transcriptome analysis reveals Epithalon alters epigenetic histone acetylation patterns, restoring suppressed ribosomal DNA transcription in aging tissues.",
+    "limitations": "Clinical research is predominantly conducted by a single institutional consortium in Eastern Europe. Independent global multi-center trials are required.",
+    "safetyNotes": "Theoretical considerations regarding telomerase activation in precancerous lesions require rigorous long-term oncological monitoring.",
+    "tags": [
+      "epithalon",
+      "telomerase",
+      "longevity",
+      "melatonin",
+      "circadian",
+      "pineal"
+    ],
+    "createdAt": "2026-10-28T12:20:44.716Z",
+    "updatedAt": "2026-10-28T12:20:44.721Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_b80vuwth5mvs31xrm",
+    "title": "Collagen Hydrolysate Bioactive Peptides in Joint Cartilage Regeneration",
+    "slug": "collagen-hydrolysate-peptides-cartilage-regeneration",
+    "category": "Clinical Evidence",
+    "evidenceLevel": "Level I - Meta Analysis",
+    "authors": [
+      "S. Oesser",
+      "M. Adam",
+      "W. Babel"
+    ],
+    "doi": "10.1002/art.22415",
+    "publicationYear": 2022,
+    "journal": "Arthritis & Rheumatology",
+    "abstract": "Specific bioactive collagen peptides (Pro-Hyp and Hyp-Gly dipeptides) derived from controlled enzymatic hydrolysis of Type I and II collagen exhibit high intestinal absorption and bio-accumulation in articular cartilage. Double-blind placebo-controlled human trials demonstrate stimulated extracellular matrix proteoglycan synthesis and significant joint discomfort reduction in active cohorts.",
+    "content": "Radiolabeled tracer experiments reveal that orally ingested bioactive collagen oligopeptides cross the mucosal barrier via the PepT1 transporter intact and accumulate preferentially in chondrocytes for up to 96 hours. In vitro, cartilage explants exposed to Pro-Hyp showed a 2.5-fold increase in Type II collagen gene transcription.\n\nIn athletic populations with joint distress, 24 weeks of 5-10g daily supplementation yielded measurable improvements in knee joint mobility and visual analog pain scores compared to maltodextrin control.",
+    "limitations": "Requires consistent daily intake over 3 to 6 months to observe measurable cartilage density changes.",
+    "safetyNotes": "Extremely high safety profile with GRAS (Generally Recognized As Safe) designation. Low allergenicity unless derived from specific shellfish/marine species.",
+    "tags": [
+      "collagen",
+      "cartilage",
+      "pro-hyp",
+      "joint-mobility",
+      "extracellular-matrix",
+      "recovery"
+    ],
+    "createdAt": "2026-10-28T12:20:44.722Z",
+    "updatedAt": "2026-10-28T12:20:44.727Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_0b73dxme3mvs31xrs",
+    "title": "CJC-1295 and Ipamorelin: Synergistic Pituitary Somatotropic Secretagogues",
+    "slug": "cjc-1295-ipamorelin-synergy-secretagogues",
+    "category": "Peptide Biology",
+    "evidenceLevel": "Level III - In Vivo Preclinical",
+    "authors": [
+      "R. F. Walker",
+      "J. A. Root"
+    ],
+    "doi": "10.1210/en.2021-1402",
+    "publicationYear": 2021,
+    "journal": "Journal of Endocrinology",
+    "abstract": "CJC-1295 (a modified GHRH analogue with Drug Affinity Complex) and Ipamorelin (a selective pentapeptide ghrelin mimetic) act via complementary pituitary receptors to induce pulsatile growth hormone (GH) and insulin-like growth factor-1 (IGF-1) release without triggering prolactin, cortisol, or appetite dysregulation.",
+    "content": "Ipamorelin specifically binds the growth hormone secretagogue receptor 1a (GHSR-1a), bypassing the ACTH stimulation characteristic of older hexapeptides like GHRP-6. CJC-1295 binds pituitary GHRH receptors, enhancing native somatotroph sensitivity. In combination, their synergistic interaction produces an amplified, physiological GH pulse profile that preserves native feedback inhibition mechanisms.\n\nAnimal body composition analyses demonstrated enhanced lean tissue mass, enhanced bone mineral density, and accelerated recovery from exercise-induced muscle damage.",
+    "limitations": "Subcutaneous injection protocols require strict sterility; unmonitored human usage carries risks of water retention, carpal tunnel numbness, and insulin resistance.",
+    "safetyNotes": "Unapproved for athletic enhancement; contraindicated in active malignant diseases due to potential IGF-1 stimulated cellular proliferation.",
+    "tags": [
+      "cjc-1295",
+      "ipamorelin",
+      "growth-hormone",
+      "ghrh",
+      "igf-1",
+      "recovery"
+    ],
+    "createdAt": "2026-10-28T12:20:44.728Z",
+    "updatedAt": "2026-10-28T12:20:44.733Z",
+    "chunkCount": 5
+  },
+  {
+    "_id": "doc_kq6i4dquzmvs31xry",
+    "title": "Systematic Safety Considerations & Regulatory Toxicology of Research Peptides",
+    "slug": "systematic-safety-regulatory-toxicology-peptides",
+    "category": "Safety & Toxicology",
+    "evidenceLevel": "Level I - Meta Analysis",
+    "authors": [
+      "R. J. D’Amato",
+      "E. C. Miller",
+      "K. S. Thompson"
+    ],
+    "doi": "10.1080/10408444.2023.2189012",
+    "publicationYear": 2023,
+    "journal": "Critical Reviews in Toxicology",
+    "abstract": "The exponential rise in gray-market research peptide consumption poses substantial clinical and microbiological hazards. This systematic toxicological review identifies primary purity determinants—including trifluoroacetic acid (TFA) salt remnants, truncations, and bacterial endotoxin loads—emphasizing the necessity of strict analytical validation (HPLC and Mass Spectrometry) and regulatory oversight.",
+    "content": "Independent batch analyses of online research chemical vendors revealed that over 38% of non-regulated peptide vials deviated from labeled purity by more than 15%, with detectable levels of residual synthesis solvents (such as piperidine and DMF) and gram-negative endotoxins capable of triggering pyrogenic immune reactions.\n\nFurthermore, chronic unmonitored self-administration of peptide secretagogues or tissue growth factors risks downregulating endogenous hormone axes and inducing neutralizing anti-drug antibodies (ADAs) that compromise endogenous peptide function.",
+    "limitations": "Analytical testing sampled commercial research-grade vendors; regulatory pharmacopeia standards apply only to pharmaceutical manufacturing facilities.",
+    "safetyNotes": "Crucial educational awareness: unregulated peptide products sold as \"research chemicals only\" are not sterile pharmaceutical preparations and carry serious health risks.",
+    "tags": [
+      "safety",
+      "toxicology",
+      "purity",
+      "endotoxin",
+      "hplc",
+      "regulatory-affairs"
+    ],
+    "createdAt": "2026-10-28T12:20:44.734Z",
+    "updatedAt": "2026-10-28T12:20:44.740Z",
+    "chunkCount": 5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "doc_ppxmdxqzfmvs31xqo",
+    "name": "Mohammed Farahaan F",
+    "email": "farahaan@eec.edu.in",
+    "password": "$2a$10$jZpxbrb5DkfhJk6jkoH3/.E5zNFN0iFF3kpCLO0T7gbn7Nu0pjrTi",
+    "role": "user",
+    "interests": [
+      "Peptide Biology",
+      "Clinical Evidence",
+      "Safety & Toxicology",
+      "Metabolic Health"
+    ],
+    "bio": "CSE (Cyber Security) Student Researcher - SRM Easwari Engineering College",
+    "createdAt": "2026-10-28T12:20:44.688Z",
+    "updatedAt": "2026-10-28T12:20:44.691Z"
+  },
+  {
+    "_id": "doc_07bmhwwcgmvs31xqr",
+    "name": "Dr. Balaji / Admin Console",
+    "email": "admin@eec.edu.in",
+    "password": "$2a$10$jZpxbrb5DkfhJk6jkoH3/.WXC2miorCFbyDrZke.oBMluv89lOwQe",
+    "role": "admin",
+    "interests": [
+      "Systems Architecture",
+      "Information Retrieval",
+      "RAG Security"
+    ],
+    "bio": "Departmental Administrator & Research Supervisor",
+    "createdAt": "2026-10-28T12:20:44.691Z",
+    "updatedAt": "2026-10-28T12:20:44.692Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "doc_utpq3e7jpmvs31xsc",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "title": "Evidence-Grounded Peptide Citation Verification",
+    "messages": [
+      {
+        "role": "user",
+        "content": "How does the RAG architecture verify research citations and prevent hallucinations?",
+        "timestamp": "2026-10-28T12:20:44.748Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The Wellnote RAG architecture enforces a zero-hallucination verification pipeline. When an inquiry is submitted, the system tokenizes the query, performs TF-IDF and semantic vector similarity matching against pre-chunked peer-reviewed documents, and passes strictly retrieved passages into the generative synthesizer [Citation 1]. Every factual statement is paired with an immutable citation anchor, allowing users to inspect the exact underlying study, DOI, and experimental constraints directly.",
+        "citations": [
+          {
+            "citationIndex": 1,
+            "docTitle": "Systematic Safety Considerations & Regulatory Toxicology of Research Peptides",
+            "heading": "Passage 1: Safety & Toxicology",
+            "excerpt": "The exponential rise in gray-market research peptide consumption poses substantial clinical and microbiological hazards...",
+            "doi": "10.1080/10408444.2023.2189012"
+          }
+        ],
+        "evidenceScore": 0.96,
+        "safetyNotice": "Educational information only. Always consult a qualified medical professional before considering any health protocols.",
+        "timestamp": "2026-10-28T12:20:44.748Z"
+      }
+    ],
+    "createdAt": "2026-10-28T12:20:44.748Z",
+    "updatedAt": "2026-10-28T12:20:44.748Z"
+  },
+  {
+    "_id": "doc_zfc2jybd2mvs32m4f",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "title": "How does BPC-157 stimulate angiogenesis?",
+    "messages": [
+      {
+        "role": "user",
+        "content": "How does BPC-157 stimulate angiogenesis?",
+        "timestamp": "2026-10-28T12:21:16.288Z"
+      },
+      {
+        "role": "assistant",
+        "content": "According to preclinical literature on **BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms** [Citation 1], the pentadecapeptide demonstrates potent cytoprotective and angiogenic properties. It upregulates early growth response protein-1 (Egr-1) and vascular endothelial growth factor (VEGF), which facilitates organized microvascular neoangiogenesis and collagen deposition at damaged tissue sites. However, research emphasizes that the majority of documented efficacy derives from rodent in-vivo trials, and human clinical trials remain limited in institutional oversight [Citation 1].",
+        "citations": [
+          {
+            "citationIndex": 1,
+            "docId": "doc_18m7d7pswmvs31xqs",
+            "docTitle": "BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms",
+            "heading": "Passage 2: Peptide Biology",
+            "excerpt": "BPC-157 exerts cytoprotective effects across mucosal and vascular endothelium. In animal wound healing models, systemic and topical administrations induced significant cellular pro...",
+            "doi": "10.1016/j.peptides.2023.170942",
+            "relevanceScore": 0.98
+          },
+          {
+            "citationIndex": 2,
+            "docId": "doc_18m7d7pswmvs31xqs",
+            "docTitle": "BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms",
+            "heading": "Passage 1: Peptide Biology",
+            "excerpt": "Body Protection Compound-157 (BPC-157) is a 15-amino acid stable peptide derived from human gastric juice. Preclinical investigations demonstrate significant acceleration of transe...",
+            "doi": "10.1016/j.peptides.2023.170942",
+            "relevanceScore": 0.98
+          },
+          {
+            "citationIndex": 3,
+            "docId": "doc_18m7d7pswmvs31xqs",
+            "docTitle": "BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms",
+            "heading": "Passage 3: Peptide Biology",
+            "excerpt": "Pharmacological analysis reveals that BPC-157 remains structurally intact in gastric acid for over 24 hours without proteolytic degradation, distinguishing it from unglycosylated r...",
+            "doi": "10.1016/j.peptides.2023.170942",
+            "relevanceScore": 0.98
+          }
+        ],
+        "evidenceScore": 0.97,
+        "safetyNotice": "Educational & scientific research platform only. This platform does not provide medical diagnosis, dosage protocols, or individualized treatment plans.",
+        "timestamp": "2026-10-28T12:21:16.288Z"
+      }
+    ],
+    "createdAt": "2026-10-28T12:21:16.287Z",
+    "updatedAt": "2026-10-28T12:21:16.288Z"
+  }
+]

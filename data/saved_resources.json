@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "doc_r8mjv5dqqmvs31xsb",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "resourceType": "research_guide",
+    "referenceId": "doc_18m7d7pswmvs31xqs",
+    "title": "BPC-157 Gastric Pentadecapeptide and Angiogenic Soft-Tissue Healing Mechanisms",
+    "summary": "Body Protection Compound-157 (BPC-157) is a 15-amino acid stable peptide derived from human gastric juice. Preclinical investigations demonstrate significant ac...",
+    "tags": [
+      "bpc-157",
+      "angiogenesis",
+      "tendon-repair",
+      "wound-healing",
+      "vegf",
+      "cytoprotection"
+    ],
+    "createdAt": "2026-10-28T12:20:44.747Z",
+    "updatedAt": "2026-10-28T12:20:44.747Z"
+  },
+  {
+    "_id": "doc_xedmrtmftmvs31xsb",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "resourceType": "research_guide",
+    "referenceId": "doc_kq6i4dquzmvs31xry",
+    "title": "Systematic Safety Considerations & Regulatory Toxicology of Research Peptides",
+    "summary": "The exponential rise in gray-market research peptide consumption poses substantial clinical and microbiological hazards. This systematic toxicological review id...",
+    "tags": [
+      "safety",
+      "toxicology",
+      "purity",
+      "endotoxin",
+      "hplc",
+      "regulatory-affairs"
+    ],
+    "createdAt": "2026-10-28T12:20:44.747Z",
+    "updatedAt": "2026-10-28T12:20:44.747Z"
+  }
+]

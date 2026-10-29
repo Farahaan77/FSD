@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "doc_2tazvoutkmvs31xs5",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-21",
+    "sleepDuration": 7.2,
+    "energyRating": 7,
+    "moodRating": 8,
+    "exerciseMinutes": 45,
+    "waterIntakeLiters": 2.8,
+    "notes": "Morning aerobic zone 2 training; deep recovery focus.",
+    "createdAt": "2026-10-28T12:20:44.741Z",
+    "updatedAt": "2026-10-28T12:20:44.741Z"
+  },
+  {
+    "_id": "doc_nc3x0gx2imvs31xs5",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-22",
+    "sleepDuration": 8,
+    "energyRating": 8,
+    "moodRating": 8,
+    "exerciseMinutes": 30,
+    "waterIntakeLiters": 2.8,
+    "notes": "Rest day, reading peptide biochemistry literature.",
+    "createdAt": "2026-10-28T12:20:44.741Z",
+    "updatedAt": "2026-10-28T12:20:44.741Z"
+  },
+  {
+    "_id": "doc_f5wv5aba9mvs31xs6",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-23",
+    "sleepDuration": 6.8,
+    "energyRating": 6,
+    "moodRating": 7,
+    "exerciseMinutes": 50,
+    "waterIntakeLiters": 2.8,
+    "notes": "High mental workload; late review session.",
+    "createdAt": "2026-10-28T12:20:44.742Z",
+    "updatedAt": "2026-10-28T12:20:44.742Z"
+  },
+  {
+    "_id": "doc_80p3e14pamvs31xs7",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-24",
+    "sleepDuration": 7.5,
+    "energyRating": 8,
+    "moodRating": 9,
+    "exerciseMinutes": 40,
+    "waterIntakeLiters": 2.8,
+    "notes": "Clean nutrition, excellent hydration levels.",
+    "createdAt": "2026-10-28T12:20:44.743Z",
+    "updatedAt": "2026-10-28T12:20:44.743Z"
+  },
+  {
+    "_id": "doc_aik3kgg1wmvs31xs8",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-25",
+    "sleepDuration": 7.9,
+    "energyRating": 9,
+    "moodRating": 9,
+    "exerciseMinutes": 60,
+    "waterIntakeLiters": 2.8,
+    "notes": "Weekend outdoor run; peak recovery and subjective energy.",
+    "createdAt": "2026-10-28T12:20:44.744Z",
+    "updatedAt": "2026-10-28T12:20:44.744Z"
+  },
+  {
+    "_id": "doc_ox6reasg7mvs31xs9",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-26",
+    "sleepDuration": 8.2,
+    "energyRating": 9,
+    "moodRating": 9,
+    "exerciseMinutes": 45,
+    "waterIntakeLiters": 2.8,
+    "notes": "Optimal sleep cycle, full restorative REM.",
+    "createdAt": "2026-10-28T12:20:44.745Z",
+    "updatedAt": "2026-10-28T12:20:44.745Z"
+  },
+  {
+    "_id": "doc_7uk3zell0mvs31xsa",
+    "userId": "doc_ppxmdxqzfmvs31xqo",
+    "entryDate": "2026-10-27",
+    "sleepDuration": 7.4,
+    "energyRating": 8,
+    "moodRating": 8,
+    "exerciseMinutes": 35,
+    "waterIntakeLiters": 2.8,
+    "notes": "Stable baseline; preparing project review milestone.",
+    "createdAt": "2026-10-28T12:20:44.746Z",
+    "updatedAt": "2026-10-28T12:20:44.746Z"
+  }
+]
